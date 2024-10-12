@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "quantity": 20,
+      "category": "Category A",
+      "supplier": "Supplier 1"
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "quantity": 5,
+      "category": "Category B",
+      "supplier": "Supplier 2"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Supplier 1",
+      "contact": "contact1@example.com",
+      "items": "Item 1"
+    },
+    {
+      "id": 2,
+      "name": "Supplier 2",
+      "contact": "contact2@example.com",
+      "items": "Item 2"
+    }
+  ]
+}
